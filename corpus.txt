@@ -1,0 +1,6 @@
+L'intelligence artificielle apprend a partir des donnees.
+Les reseaux de neurones reconnaissent des motifs dans les textes et les images.
+Un Transformer utilise l'attention pour relier les positions d'une sequence.
+Le modele GPT genere du texte en predisant le caractere suivant.
+L'attention causale interdit a une position de regarder les caracteres futurs.
+L'apprentissage profond utilise des representations numeriques hierarchiques.
